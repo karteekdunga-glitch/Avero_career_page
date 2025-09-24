@@ -1,0 +1,21 @@
+# Node modules (reinstalled in Docker)
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Environment files (if present locally)
+.env
+.env.*    # e.g., .env.local, .env.development
+
+# Build output (Dockerfile rebuilds it)
+dist
+
+# Cache
+*.log
+.cache
+
+# OS/editor files
+.DS_Store
+.vscode
+.idea
+*.swp

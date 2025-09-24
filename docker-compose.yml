@@ -1,0 +1,25 @@
+version: "3.9"
+services:
+  backend:
+    build: ./server
+    container_name: careers-backend
+    ports:
+      - "4000:4000"
+    env_file:
+      - ./server/.env
+    networks:
+      - careers-net
+
+  frontend:
+    build: ./client
+    container_name: careers-frontend
+    ports:
+      - "5176:80"
+    depends_on:
+      - backend
+    networks:
+      - careers-net
+
+networks:
+  careers-net:
+    driver: bridge
