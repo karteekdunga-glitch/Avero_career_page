@@ -1,3 +1,13 @@
 node_modules/
-server/.env/
+# Environment files
+.env
+*.env
+*.env.local
+client/.env
+client/.env.*
+client/.env.example
+client/.env.example*
+server/.env
+server/.env.*
 server/.env.example
+server/.env.example*
