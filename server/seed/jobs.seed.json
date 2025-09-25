@@ -1,0 +1,63 @@
+[
+  {
+    "_id": "j-erp-001",
+    "title": "ERP Consultant",
+    "location": "Hyderabad, India",
+    "type": "Full-Time",
+    "salaryRange": "₹8,00,000–₹9,00,000 per annum",
+    "summary": "Lead ERP implementations and optimizations for public sector clients.",
+    "requirements": [
+      "5+ years with Tier-1/2 ERP solutions (e.g., Oracle, SAP, Workday).",
+      "Public sector experience preferred.",
+      "Strong stakeholder communication and project leadership."
+    ],
+    "description": "You will guide ERP discovery, design, and rollout...",
+    "postedAt": "2025-09-01"
+  },
+  {
+    "_id": "j-ai-002",
+    "title": "AI Strategy Advisor",
+    "location": "Hyderabad, India",
+    "type": "Full-time",
+    "salaryRange": "₹8,00,000–₹9,00,000 per annum",
+    "summary": "Shape AI strategy and governance...",
+    "requirements": [
+      "Experience crafting AI roadmaps...",
+      "Understanding of MLOps...",
+      "Excellent advisory and facilitation skills."
+    ],
+    "description": "Help clients identify high-value AI use cases...",
+    "postedAt": "2025-08-15"
+  },
+  {
+    "_id": "j-psit-003",
+    "title": "Public Sector IT Specialist",
+    "location": "Hyderabad, India",
+    "type": "Contract",
+    "salaryRange": "₹8,00,000–₹9,00,000 per annum",
+    "summary": "Modernize IT operations...",
+    "requirements": [
+      "Hands-on systems administration...",
+      "Familiar with NIST frameworks...",
+      "Strong documentation..."
+    ],
+    "description": "Work on assessment, remediation, and ongoing improvement...",
+    "postedAt": "2025-07-30"
+  },
+  {
+    "_id": "j-dev-004",
+    "title": "Associate Developer - Entry Level",
+    "location": "Hyderabad, India",
+    "type": "Full-Time",
+    "salaryRange": "₹8,00,000–₹9,00,000 per annum",
+    "summary": "Join as an enthusiastic fresher...",
+    "description": "We are seeking enthusiastic and talented fresh graduates...",
+    "requirements": [
+      "Bachelor's degree in CS/IT...",
+      "0–1 years of experience...",
+      "Basic proficiency in Java/Python/C++/JS...",
+      "Knowledge of Git, databases, web tech..."
+    ],
+    "postedAt": "2025-09-18"
+  }
+]

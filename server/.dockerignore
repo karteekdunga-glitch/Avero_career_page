@@ -1,0 +1,19 @@
+# Node modules (we rebuild inside Docker)
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Environment files
+.env
+.env.*    # in case you add more like .env.development
+
+# Build/test outputs
+coverage
+dist
+*.log
+
+# OS/editor files
+.DS_Store
+.vscode
+.idea
+*.swp
